@@ -143,6 +143,7 @@ width: 250px;
 .about{
     display: flex;
     margin: 50px 130px;
+   
     
     
 }
@@ -163,7 +164,7 @@ top: 0;
     color: rgb(16, 16, 16);
     
     font-size: 19px;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 25px;
     letter-spacing: 0%;
     text-align: center;
@@ -186,11 +187,15 @@ margin-top: 15px;
     color: rgb(16, 16, 16);
 
 font-size: 22px;
-font-weight: 600;
+font-weight: 700;
 line-height: 38px;
 letter-spacing: 0%;
 text-align: center;
 margin-top: 15px;
+
+box-sizing: border-box;
+border-bottom: 1px solid rgba(16, 16, 16, 0.2);
+border-top: 1px solid rgba(16, 16, 16, 0.2);
 }
 
 .social-link{
