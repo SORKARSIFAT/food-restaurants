@@ -138,3 +138,68 @@ width: 250px;
     justify-content: space-between;
     gap: 20px;
 }
+
+
+.about{
+    display: flex;
+    margin: 50px 130px;
+    
+    
+}
+.about img{
+   
+
+width: 500px;
+height: 300px;
+left: 0;
+top: 0;
+}
+
+.about-container{
+    padding: 35px 100px;
+}
+
+.about-title{
+    color: rgb(16, 16, 16);
+    
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+
+.about-desp{
+    color: rgb(16, 16, 16);
+
+font-size: 16px;
+font-weight: 500;
+
+letter-spacing: 0%;
+margin-top: 15px;
+
+}
+
+.socia-title{
+    color: rgb(16, 16, 16);
+
+font-size: 22px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 15px;
+}
+
+.social-link{
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
